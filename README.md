@@ -47,7 +47,7 @@
   
       python detect.py
 </ul>
-  
+
 ## Results :
   
 ![source img](https://github.com/ramkiran55/Age-Gender-Detection-Model/blob/main/Outs/final_output.png)
