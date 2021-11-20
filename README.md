@@ -50,4 +50,6 @@
   
 ## Results :
   
-![source img](https://github.com/ramkiran55/Age-Gender-Detection-Model/blob/main/Outs/final_output.png)
+|  |  |
+|:---:|:---:|
+|![](https://raw.githubusercontent.com/ramkiran55/Age-Gender-Detection-Model/main/Outs/Myoutput2.jpg)|![](https://raw.githubusercontent.com/ramkiran55/Age-Gender-Detection-Model/main/Outs/final_output.png)|
